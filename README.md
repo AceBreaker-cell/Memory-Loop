@@ -26,7 +26,130 @@ A source code for my own original game, a visual novel game kinda thing with the
   <img width="1578" height="888" alt="Screenshot 2026-07-25 201436" src="https://github.com/user-attachments/assets/a2cb30c2-1e31-4565-bdfe-a1394ecbe792" />
 </p>
 
-<p align="center"><i>(Ganti gambar di atas dengan screenshot asli gameplay kamu)</i></p>
+<details>
+<summary><b>🔍 Tutorial setup</b></p></summary>
+
+## ✅ Sebelum Mulai
+
+Pastikan kamu sudah punya:
+
+- **[Unity Hub](https://unity.com/download)** terinstall
+- **Unity Editor `6000.4.0f1`** (atau versi 6.x yang mendekati) install lewat Unity Hub
+  - Buka Unity Hub → tab **Installs** → **Install Editor** → pilih versi yang sesuai
+- Ruang penyimpanan yang cukup (beberapa GB untuk Editor + file project)
+
+---
+
+## 🗂️ [Metode 1] Download ZIP (Paling Mudah, Tanpa Git)
+
+**Langkah 1: Download**
+
+Buka halaman repository GitHub (link ada di README), klik tombol hijau **`<> Code`**, lalu klik **Download ZIP**.
+
+**Langkah 2: Extract File ZIP**
+
+Klik kanan file `.zip` yang sudah terdownload → **Extract All** (Windows) atau double-click (Mac). Bisa pakai tool apa saja (WinRAR, 7-Zip, atau bawaan sistem).
+
+> ⚠️ Setelah di-extract, biasanya akan muncul folder seperti `HariYangTerusBerulang-main`. **Buka folder itu** — di dalamnya seharusnya ada subfolder bernama `Assets`, `Packages`, dan `ProjectSettings`. Itulah folder utama project Unity yang kamu butuhkan untuk langkah berikutnya.
+
+**Langkah 3: Buka Unity Hub**
+
+1. Buka **Unity Hub**
+2. Masuk ke tab **Projects**
+3. Klik **Add** → **Add project from disk**
+4. Cari dan pilih folder hasil extract tadi (yang berisi `Assets`, `Packages`, `ProjectSettings`)
+5. Klik **Add Project** / **Select Folder**
+
+**Langkah 4: Buka Project**
+
+Klik project yang baru saja muncul di daftar Unity Hub. Unity akan mulai meng-import semua asset — **proses ini bisa memakan waktu beberapa menit saat pertama kali dibuka**, terutama saat compile shader. Tunggu sampai selesai, jangan ditutup paksa.
+
+**Langkah 5: Main!**
+
+Setelah Editor terbuka:
+1. Di jendela **Project**, buka `Assets/Scenes/`
+2. Double-click **`Main Menu`** untuk membuka scene tersebut
+3. Tekan tombol ▶️ **Play** di bagian atas Editor
+
+🎉 Selesai kamu sudah masuk ke dalam game!
+
+---
+
+## 🌱 [Metode 2] Clone lewat Git (Untuk Update & Kontributor)
+
+Kalau kamu ingin project-mu mudah di-*update*, atau berencana ikut berkontribusi, clone dengan Git lebih baik dibanding download ZIP. Berikut panduan lengkapnya walau kamu belum pernah pakai Git sebelumnya:
+
+**Langkah 1: Install Git**
+
+Download dan install Git dari **[git-scm.com](https://git-scm.com/downloads)**. Cukup klik "Next" terus sampai selesai dengan opsi default.
+
+**Langkah 2: Buka Terminal**
+
+- **Windows:** Klik kanan di Desktop atau di dalam folder → **Open in Terminal** (atau cari "Command Prompt" / "Git Bash" di Start Menu)
+- **Mac:** Buka aplikasi **Terminal** (cari lewat Spotlight)
+
+**Langkah 3: Clone Repository**
+
+Masuk ke folder tempat kamu ingin menyimpan project, lalu jalankan:
+
+```bash
+git clone https://github.com/AceBreaker-Cell/Memory-Loop.git
+```
+
+Ini akan membuat folder baru berisi seluruh project.
+
+**Langkah 4: Tambahkan ke Unity Hub**
+
+Sama seperti Metode 1, Langkah 3–5:
+1. Buka **Unity Hub** → **Projects** → **Add** → **Add project from disk**
+2. Pilih folder hasil clone tadi
+3. Buka project, tunggu proses import
+4. Buka scene `Main Menu` → tekan **Play**
+
+**Bonus Cara update project di kemudian hari:**
+Kalau repository sudah di-update, cukup buka terminal di dalam folder hasil clone-mu dan jalankan:
+```bash
+git pull
+```
+Ini akan mengambil perubahan terbaru tanpa perlu download ulang dari awal.
+
+---
+
+## 🛠️ Mengedit Project
+
+Silakan jelajahi, ubah, dan bereksperimen dengan project ini! Beberapa tips:
+
+- Semua script gameplay ada di `Assets/Scripts/`
+- Semua scene (Main Menu, Loop 0–3, Final Loop, Ending) ada di `Assets/Scenes/`
+- Pastikan versi Unity Editor kamu sama (atau mendekati) `6000.4.0f1` biar tidak muncul peringatan kompatibilitas
+
+---
+
+## ❗ Troubleshooting
+
+| Masalah | Solusi |
+|---|---|
+| Unity Hub bilang "Unity version not found" | Install versi yang sesuai lewat Unity Hub → Installs → Install Editor |
+| Tekstur pink/hilang setelah dibuka | Biarkan project selesai import sepenuhnya, lalu restart Unity |
+| Project tidak mau terbuka / stuck loading | Pastikan kamu memilih folder yang langsung berisi `Assets`, bukan folder di atas atau di dalamnya |
+| Semuanya sangat lambat saat pertama dibuka | Normal Unity sedang compile shader dan import asset untuk pertama kalinya. Pembukaan berikutnya akan jauh lebih cepat |
+
+---
+
+## 📜 Credits & Lisensi
+
+Project ini dibuat oleh **Muhammad Aziz Syah Dani** sebagai tugas Ujian Akhir Semester mata kuliah *Pengenalan Pemrograman Game* Dan Fajri Aulia sebagai Konsep cerita dari game ini, dengan aset visual oleh **Nagita Syahira Putri** dan **Muhammad Zaki Daisa Ammar**.
+
+Kamu bebas download, main, dan modifikasi project ini untuk keperluan belajar **mohon cantumkan kredit ke pembuat aslinya jika kamu membagikan, menampilkan, atau mengembangkan karya ini lebih lanjut.**
+
+<div align="center">
+
+**Copyright © Albatany 2026**
+
+*Selamat bermain! 🎮*
+
+</div>
+</details>
 
 ---
 
