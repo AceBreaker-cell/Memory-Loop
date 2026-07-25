@@ -44,7 +44,7 @@ Pastikan kamu sudah punya:
 
 **Langkah 1: Download**
 
-Buka halaman repository GitHub (link ada di README), klik tombol hijau **`<> Code`**, lalu klik **Download ZIP**.
+Buka halaman repository GitHub [(link ada di README)]((https://drive.google.com/file/d/1w-Y3Wjmb8MIVBdesMe1MyjM75DPAJzlK/view?usp=sharing)), klik tombol hijau **`<> Code`**, lalu klik **Download ZIP**.
 
 **Langkah 2: Extract File ZIP**
 
@@ -141,6 +141,12 @@ Silakan jelajahi, ubah, dan bereksperimen dengan project ini! Beberapa tips:
 Project ini dibuat oleh **Muhammad Aziz Syah Dani** sebagai tugas Ujian Akhir Semester mata kuliah *Pengenalan Pemrograman Game* Dan Fajri Aulia sebagai Konsep cerita dari game ini, dengan aset visual oleh **Nagita Syahira Putri** dan **Muhammad Zaki Daisa Ammar**.
 
 Kamu bebas download, main, dan modifikasi project ini untuk keperluan belajar **mohon cantumkan kredit ke pembuat aslinya jika kamu membagikan, menampilkan, atau mengembangkan karya ini lebih lanjut.**
+
+Beberapa file asset di project ini ukurannya melebihi batas upload GitHub sebesar 25 MB, jadi source code lengkap (beserta semua asset) di-host di Google Drive, bukan langsung di repo ini.
+
+➡️ [Download project lengkap di sini:](https://drive.google.com/file/d/1w-Y3Wjmb8MIVBdesMe1MyjM75DPAJzlK/view?usp=sharing)
+
+Silakan pakai link Drive ini dan ikuti Metode 1 (Download ZIP) di panduan setup repo GitHub-nya saja mungkin ada beberapa file besar yang hilang.
 
 <div align="center">
 
