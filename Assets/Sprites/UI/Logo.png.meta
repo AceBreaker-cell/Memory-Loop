@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 44037b55a0a560b4984c123c15117709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1404028623067837608
+    second: Logo_0
+  - first:
+      213: 6795467416601567747
+    second: Logo_1
+  - first:
+      213: 6875538535012287733
+    second: Logo_2
+  - first:
+      213: 2381070441135384947
+    second: Logo_3
+  - first:
+      213: -3774021269495190454
+    second: Logo_4
+  - first:
+      213: 6893372319333685202
+    second: Logo_5
+  - first:
+      213: 5409054819110567409
+    second: Logo_6
+  - first:
+      213: -5151548511015374267
+    second: Logo_7
+  - first:
+      213: 8618792996653847996
+    second: Logo_8
+  - first:
+      213: -8503305437844106070
+    second: Logo_9
+  - first:
+      213: 9156548432191564253
+    second: Logo_10
+  - first:
+      213: -1306304639851798359
+    second: Logo_11
+  - first:
+      213: -1528687246299850986
+    second: Logo_12
+  - first:
+      213: -1453834278069125553
+    second: Logo_13
+  - first:
+      213: -8074770578077153683
+    second: Logo_14
+  - first:
+      213: -6159489392364382447
+    second: Logo_15
+  - first:
+      213: -4536293588464031748
+    second: Logo_16
+  - first:
+      213: -2080403533957981334
+    second: Logo_17
+  - first:
+      213: 4557605079627867692
+    second: Logo_18
+  - first:
+      213: -59867036688880149
+    second: Logo_19
+  - first:
+      213: -6649400525504886364
+    second: Logo_20
+  - first:
+      213: -1043740112008347349
+    second: Logo_21
+  - first:
+      213: 5013402760517276361
+    second: Logo_22
+  - first:
+      213: -1563498650507532718
+    second: Logo_23
+  - first:
+      213: 489527464863182327
+    second: Logo_24
+  - first:
+      213: 1686525961781880353
+    second: Logo_25
+  - first:
+      213: 5577146951343682445
+    second: Logo_26
+  - first:
+      213: 4532251367885671450
+    second: Logo_27
+  - first:
+      213: 6015085111391179743
+    second: Logo_28
+  - first:
+      213: -6715578492922858091
+    second: Logo_29
+  - first:
+      213: 6744394735244516897
+    second: Logo_30
+  - first:
+      213: 2455651733426305877
+    second: Logo_31
+  - first:
+      213: 2219852219945722203
+    second: Logo_32
+  - first:
+      213: -5797509884298718730
+    second: Logo_33
+  - first:
+      213: 3513587696935577402
+    second: Logo_34
+  - first:
+      213: -2839320760646553706
+    second: Logo_35
+  - first:
+      213: 5623462274162891901
+    second: Logo_36
+  - first:
+      213: -3604985213953041103
+    second: Logo_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 145
+        width: 1338
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30227498c995e4e50800000000000000
+      internalID: 6795467416601567747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_2
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 517
+        width: 84
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4cae29ed1da6f50800000000000000
+      internalID: 6875538535012287733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7639ddf809507cb4e869800b7a2aeaf1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logo_0: 1404028623067837608
+      Logo_1: 6795467416601567747
+      Logo_10: 9156548432191564253
+      Logo_11: -1306304639851798359
+      Logo_12: -1528687246299850986
+      Logo_13: -1453834278069125553
+      Logo_14: -8074770578077153683
+      Logo_15: -6159489392364382447
+      Logo_16: -4536293588464031748
+      Logo_17: -2080403533957981334
+      Logo_18: 4557605079627867692
+      Logo_19: -59867036688880149
+      Logo_2: 6875538535012287733
+      Logo_20: -6649400525504886364
+      Logo_21: -1043740112008347349
+      Logo_22: 5013402760517276361
+      Logo_23: -1563498650507532718
+      Logo_24: 489527464863182327
+      Logo_25: 1686525961781880353
+      Logo_26: 5577146951343682445
+      Logo_27: 4532251367885671450
+      Logo_28: 6015085111391179743
+      Logo_29: -6715578492922858091
+      Logo_3: 2381070441135384947
+      Logo_30: 6744394735244516897
+      Logo_31: 2455651733426305877
+      Logo_32: 2219852219945722203
+      Logo_33: -5797509884298718730
+      Logo_34: 3513587696935577402
+      Logo_35: -2839320760646553706
+      Logo_36: 5623462274162891901
+      Logo_37: -3604985213953041103
+      Logo_4: -3774021269495190454
+      Logo_5: 6893372319333685202
+      Logo_6: 5409054819110567409
+      Logo_7: -5151548511015374267
+      Logo_8: 8618792996653847996
+      Logo_9: -8503305437844106070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

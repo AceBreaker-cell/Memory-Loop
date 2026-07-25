@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: e0f2e0eca5da8c24aa9928a48e2d62dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6339993570026793534
+    second: MONO WALK AND IDLE_0
+  - first:
+      213: 3961358758268471442
+    second: MONO WALK AND IDLE_1
+  - first:
+      213: -8069471744918733283
+    second: MONO WALK AND IDLE_2
+  - first:
+      213: -7006552329827354291
+    second: MONO WALK AND IDLE_3
+  - first:
+      213: -1534755408100068606
+    second: MONO WALK AND IDLE_4
+  - first:
+      213: -1925098623083696936
+    second: MONO WALK AND IDLE_5
+  - first:
+      213: -2048091632315039525
+    second: MONO WALK AND IDLE_6
+  - first:
+      213: 1274110616767234029
+    second: MONO WALK AND IDLE_7
+  - first:
+      213: -5036143395082723808
+    second: MONO WALK AND IDLE_8
+  - first:
+      213: 2905829443244134831
+    second: MONO WALK AND IDLE_9
+  - first:
+      213: -9006715743807355392
+    second: MONO WALK AND IDLE_10
+  - first:
+      213: 2400642412595366315
+    second: MONO WALK AND IDLE_11
+  - first:
+      213: -5946981334913487533
+    second: MONO WALK AND IDLE_12
+  - first:
+      213: 2791837413950502312
+    second: MONO WALK AND IDLE_13
+  - first:
+      213: -9105334413766053472
+    second: MONO WALK AND IDLE_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1169
+        width: 101
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5da445071d308a0800000000000000
+      internalID: -6339993570026793534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1165
+        width: 100
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298897e6dc299f630800000000000000
+      internalID: 3961358758268471442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1163
+        width: 101
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e311fa33a730090800000000000000
+      internalID: -8069471744918733283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1163
+        width: 101
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49747047c9b3ce90800000000000000
+      internalID: -7006552329827354291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1163
+        width: 101
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f51b761473bae0800000000000000
+      internalID: -1534755408100068606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1163
+        width: 101
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dca08d700da845e0800000000000000
+      internalID: -1925098623083696936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1163
+        width: 101
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0896cf287b393e0800000000000000
+      internalID: -2048091632315039525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 806
+        width: 111
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff6fcfadc8ea110800000000000000
+      internalID: 1274110616767234029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 797
+        width: 101
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e1a2ac3460c1ab0800000000000000
+      internalID: -5036143395082723808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 795
+        width: 119
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1107e9b74935820800000000000000
+      internalID: 2905829443244134831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 795
+        width: 101
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c17920c7b10380800000000000000
+      internalID: -9006715743807355392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 797
+        width: 98
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9cb7b1e8bc05120800000000000000
+      internalID: 2400642412595366315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 792
+        width: 103
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6a9efbf3187da0800000000000000
+      internalID: -5946981334913487533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 788
+        width: 108
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a53a2116599eb620800000000000000
+      internalID: 2791837413950502312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MONO WALK AND IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 783
+        width: 148
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1b552c79a53a180800000000000000
+      internalID: -9105334413766053472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4d77ab7e6fe57445a3b2788fd37d80c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MONO WALK AND IDLE_0: -6339993570026793534
+      MONO WALK AND IDLE_1: 3961358758268471442
+      MONO WALK AND IDLE_10: -9006715743807355392
+      MONO WALK AND IDLE_11: 2400642412595366315
+      MONO WALK AND IDLE_12: -5946981334913487533
+      MONO WALK AND IDLE_13: 2791837413950502312
+      MONO WALK AND IDLE_14: -9105334413766053472
+      MONO WALK AND IDLE_2: -8069471744918733283
+      MONO WALK AND IDLE_3: -7006552329827354291
+      MONO WALK AND IDLE_4: -1534755408100068606
+      MONO WALK AND IDLE_5: -1925098623083696936
+      MONO WALK AND IDLE_6: -2048091632315039525
+      MONO WALK AND IDLE_7: 1274110616767234029
+      MONO WALK AND IDLE_8: -5036143395082723808
+      MONO WALK AND IDLE_9: 2905829443244134831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

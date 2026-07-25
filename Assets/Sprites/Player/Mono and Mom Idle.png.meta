@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: be2f1d7fad291b448801e69eddf9a122
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1038367459906922289
+    second: Mono and Mom Idle_0
+  - first:
+      213: 1332696213068540570
+    second: Mono and Mom Idle_1
+  - first:
+      213: -6568681260175397090
+    second: Mono and Mom Idle_2
+  - first:
+      213: -7857169753743071575
+    second: Mono and Mom Idle_3
+  - first:
+      213: 991870465173216766
+    second: Mono and Mom Idle_4
+  - first:
+      213: -754684678779815413
+    second: Mono and Mom Idle_5
+  - first:
+      213: -7097625844900037136
+    second: Mono and Mom Idle_6
+  - first:
+      213: -5206385599912758744
+    second: Mono and Mom Idle_7
+  - first:
+      213: -4016831785491814601
+    second: Mono and Mom Idle_8
+  - first:
+      213: 8352217946875058
+    second: Mono and Mom Idle_9
+  - first:
+      213: 8754631924557599726
+    second: Mono and Mom Idle_10
+  - first:
+      213: 4943654005115165577
+    second: Mono and Mom Idle_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mono and Mom Idle_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 616
+        width: 115
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a31a04b5096e00800000000000000
+      internalID: 1038367459906922289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 616
+        width: 111
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a65751520be7210800000000000000
+      internalID: 1332696213068540570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 616
+        width: 111
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fea7c323b57d4a0800000000000000
+      internalID: -6568681260175397090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 616
+        width: 110
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a66330fcb9b5f290800000000000000
+      internalID: -7857169753743071575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 616
+        width: 113
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdd9d3dee4d3cd00800000000000000
+      internalID: 991870465173216766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 616
+        width: 110
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a36eb7842d685f0800000000000000
+      internalID: -754684678779815413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 113
+        width: 112
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdf91e16ea208d90800000000000000
+      internalID: -7097625844900037136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 113
+        width: 110
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822bd79a1e33fb7b0800000000000000
+      internalID: -5206385599912758744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 113
+        width: 110
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737234fe5c85148c0800000000000000
+      internalID: -4016831785491814601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 113
+        width: 108
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b46fc74c4cad1000800000000000000
+      internalID: 8352217946875058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 113
+        width: 106
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3dc82f953be7970800000000000000
+      internalID: 8754631924557599726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mono and Mom Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 113
+        width: 106
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b935300236b9440800000000000000
+      internalID: 4943654005115165577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mono and Mom Idle_0: 1038367459906922289
+      Mono and Mom Idle_1: 1332696213068540570
+      Mono and Mom Idle_10: 8754631924557599726
+      Mono and Mom Idle_11: 4943654005115165577
+      Mono and Mom Idle_2: -6568681260175397090
+      Mono and Mom Idle_3: -7857169753743071575
+      Mono and Mom Idle_4: 991870465173216766
+      Mono and Mom Idle_5: -754684678779815413
+      Mono and Mom Idle_6: -7097625844900037136
+      Mono and Mom Idle_7: -5206385599912758744
+      Mono and Mom Idle_8: -4016831785491814601
+      Mono and Mom Idle_9: 8352217946875058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

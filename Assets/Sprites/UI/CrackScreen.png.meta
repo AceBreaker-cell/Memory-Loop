@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c39822755d198294f8899ff7d3d62b78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1067853320757720061
+    second: CrackScreen_0
+  - first:
+      213: 3028151754744157081
+    second: CrackScreen_1
+  - first:
+      213: 5474605055281614731
+    second: CrackScreen_2
+  - first:
+      213: -8220484226686367253
+    second: CrackScreen_3
+  - first:
+      213: 6718064417031444455
+    second: CrackScreen_4
+  - first:
+      213: -5652757629323610169
+    second: CrackScreen_5
+  - first:
+      213: -5651530283696862086
+    second: CrackScreen_6
+  - first:
+      213: -8993080453208531128
+    second: CrackScreen_7
+  - first:
+      213: -3134176378591473363
+    second: CrackScreen_8
+  - first:
+      213: 270547866582771563
+    second: CrackScreen_9
+  - first:
+      213: 2691041556426860501
+    second: CrackScreen_10
+  - first:
+      213: 7606941192813756050
+    second: CrackScreen_11
+  - first:
+      213: 6460266628507841317
+    second: CrackScreen_12
+  - first:
+      213: -3793643885031686106
+    second: CrackScreen_13
+  - first:
+      213: -1864307371332112844
+    second: CrackScreen_14
+  - first:
+      213: -3155499591100512958
+    second: CrackScreen_15
+  - first:
+      213: 5078058308017843402
+    second: CrackScreen_16
+  - first:
+      213: 5752207388303108919
+    second: CrackScreen_17
+  - first:
+      213: -6204144418154503912
+    second: CrackScreen_18
+  - first:
+      213: -3139344606527298018
+    second: CrackScreen_19
+  - first:
+      213: 4023303136871541282
+    second: CrackScreen_20
+  - first:
+      213: 7729550930622972050
+    second: CrackScreen_21
+  - first:
+      213: 4485187128103810381
+    second: CrackScreen_22
+  - first:
+      213: -6006184393150966242
+    second: CrackScreen_23
+  - first:
+      213: 7577735034011163050
+    second: CrackScreen_24
+  - first:
+      213: -5247451192963264953
+    second: CrackScreen_25
+  - first:
+      213: -2949091983003809783
+    second: CrackScreen_26
+  - first:
+      213: 9159965448542238829
+    second: CrackScreen_27
+  - first:
+      213: -3683809829246282624
+    second: CrackScreen_28
+  - first:
+      213: -6919289343235153791
+    second: CrackScreen_29
+  - first:
+      213: -4618868740154759273
+    second: CrackScreen_30
+  - first:
+      213: 6444778211982810442
+    second: CrackScreen_31
+  - first:
+      213: 6909435502794906475
+    second: CrackScreen_32
+  - first:
+      213: 118607710102636135
+    second: CrackScreen_33
+  - first:
+      213: 2561421929334073705
+    second: CrackScreen_34
+  - first:
+      213: -4684680415276261340
+    second: CrackScreen_35
+  - first:
+      213: 2540848101110348518
+    second: CrackScreen_36
+  - first:
+      213: 6514697691461719653
+    second: CrackScreen_37
+  - first:
+      213: -7962405244271876637
+    second: CrackScreen_38
+  - first:
+      213: -9138488041003920727
+    second: CrackScreen_39
+  - first:
+      213: -2407207463610640054
+    second: CrackScreen_40
+  - first:
+      213: 4587841773373423494
+    second: CrackScreen_41
+  - first:
+      213: 2828192694213076226
+    second: CrackScreen_42
+  - first:
+      213: -7137662181800524214
+    second: CrackScreen_43
+  - first:
+      213: 6897845622013713366
+    second: CrackScreen_44
+  - first:
+      213: -7448619220582388509
+    second: CrackScreen_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrackScreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1672
+        height: 941
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc30000193e21f0800000000000000
+      internalID: -1067853320757720061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 885
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4e95ca44b9fb40800000000000000
+      internalID: 5474605055281614731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 894
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be948aa5629faed80800000000000000
+      internalID: -8220484226686367253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 891
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d9535efb5b3d50800000000000000
+      internalID: 6718064417031444455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 871
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c779ceb2ee5d81b0800000000000000
+      internalID: -5652757629323610169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 593
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc2ea662bb191b0800000000000000
+      internalID: -5651530283696862086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 823
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e76ae9dd21c300800000000000000
+      internalID: 270547866582771563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 790
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523358a454a77a950800000000000000
+      internalID: 6460266628507841317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 790
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6208a547cf44a5bc0800000000000000
+      internalID: -3793643885031686106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 785
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6b93c256a026e0800000000000000
+      internalID: -1864307371332112844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 1316
+        height: 941
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245409727d96534d0800000000000000
+      internalID: -3155499591100512958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 749
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a61f8f2e4a5d730800000000000000
+      internalID: 4023303136871541282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 597
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68363b3b0cbe1f70800000000000000
+      internalID: 9159965448542238829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_36
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 235
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea78eec2e7e24320800000000000000
+      internalID: 2540848101110348518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_39
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 60
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a25ec36b819d2180800000000000000
+      internalID: -9138488041003920727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_40
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 61
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4991d6d091e79ed0800000000000000
+      internalID: -2407207463610640054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_41
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 62
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ffe9319c94baf30800000000000000
+      internalID: 4587841773373423494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_42
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205ecee5542cf3720800000000000000
+      internalID: 2828192694213076226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5c9ffb021abf50800000000000000
+      internalID: 6897845622013713366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackScreen_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec2a0a884031a890800000000000000
+      internalID: -7448619220582388509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ffaeba30ca48fec4c8228efb072f93b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrackScreen_0: -1067853320757720061
+      CrackScreen_1: 3028151754744157081
+      CrackScreen_10: 2691041556426860501
+      CrackScreen_11: 7606941192813756050
+      CrackScreen_12: 6460266628507841317
+      CrackScreen_13: -3793643885031686106
+      CrackScreen_14: -1864307371332112844
+      CrackScreen_15: -3155499591100512958
+      CrackScreen_16: 5078058308017843402
+      CrackScreen_17: 5752207388303108919
+      CrackScreen_18: -6204144418154503912
+      CrackScreen_19: -3139344606527298018
+      CrackScreen_2: 5474605055281614731
+      CrackScreen_20: 4023303136871541282
+      CrackScreen_21: 7729550930622972050
+      CrackScreen_22: 4485187128103810381
+      CrackScreen_23: -6006184393150966242
+      CrackScreen_24: 7577735034011163050
+      CrackScreen_25: -5247451192963264953
+      CrackScreen_26: -2949091983003809783
+      CrackScreen_27: 9159965448542238829
+      CrackScreen_28: -3683809829246282624
+      CrackScreen_29: -6919289343235153791
+      CrackScreen_3: -8220484226686367253
+      CrackScreen_30: -4618868740154759273
+      CrackScreen_31: 6444778211982810442
+      CrackScreen_32: 6909435502794906475
+      CrackScreen_33: 118607710102636135
+      CrackScreen_34: 2561421929334073705
+      CrackScreen_35: -4684680415276261340
+      CrackScreen_36: 2540848101110348518
+      CrackScreen_37: 6514697691461719653
+      CrackScreen_38: -7962405244271876637
+      CrackScreen_39: -9138488041003920727
+      CrackScreen_4: 6718064417031444455
+      CrackScreen_40: -2407207463610640054
+      CrackScreen_41: 4587841773373423494
+      CrackScreen_42: 2828192694213076226
+      CrackScreen_43: -7137662181800524214
+      CrackScreen_44: 6897845622013713366
+      CrackScreen_45: -7448619220582388509
+      CrackScreen_5: -5652757629323610169
+      CrackScreen_6: -5651530283696862086
+      CrackScreen_7: -8993080453208531128
+      CrackScreen_8: -3134176378591473363
+      CrackScreen_9: 270547866582771563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
