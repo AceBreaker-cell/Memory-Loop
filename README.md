@@ -20,7 +20,6 @@ A source code for my own original game, a visual novel game kinda thing with the
 ---
 
 <p align="center">
-  
   <img width="1577" height="881" alt="Screenshot 2026-07-25 231738" src="https://github.com/user-attachments/assets/516bd0d4-5c56-47fc-9e31-585685d5cb2f" />
   <img width="1578" height="888" alt="Screenshot 2026-07-25 201436" src="https://github.com/user-attachments/assets/a2cb30c2-1e31-4565-bdfe-a1394ecbe792" />
 </p>
@@ -57,7 +56,7 @@ Cerita berjalan melalui beberapa *loop* (pengulangan hari) yang masing-masing pu
 
 | Loop | Suasana | Yang Terjadi |
 |---|---|---|
-| **Loop 0** | Hangat, normal | Hari pertama pulang — semuanya terasa baik-baik saja |
+| **Loop 0** | Hangat, normal | Hari pertama pulang semuanya terasa baik-baik saja |
 | **Loop 1** | Sedikit suram | Déjà vu mulai muncul, jam dinding berhenti |
 | **Loop 2** | Lebih gelap | Foto keluarga rusak, muncul *puzzle* mencari kepingan foto |
 | **Loop 3** | Sangat suram | Retakan mulai muncul, Ibu bertingkah semakin aneh |
@@ -67,14 +66,14 @@ Cerita berjalan melalui beberapa *loop* (pengulangan hari) yang masing-masing pu
 Di Loop 2, kamu harus menjelajahi rumah untuk mengumpulkan **kepingan foto keluarga** yang tersebar di berbagai ruangan. Semakin banyak kepingan terkumpul, semakin banyak pula ruangan tersembunyi yang terbuka.
 
 ### Sistem Emosi Tersembunyi
-Di balik layar, game ini melacak tiga nilai emosi yang tidak terlihat oleh pemain: **Denial (Penyangkalan)**, **Regret (Penyesalan)**, dan **Acceptance (Penerimaan)**. Setiap dialog yang kamu pilih menambah salah satu nilai ini — dan nilai tertinggi di akhir game akan menentukan *ending* mana yang kamu dapatkan.
+Di balik layar, game ini melacak tiga nilai emosi yang tidak terlihat oleh pemain: **Denial (Penyangkalan)**, **Regret (Penyesalan)**, dan **Acceptance (Penerimaan)**. Setiap dialog yang kamu pilih menambah salah satu nilai ini dan nilai tertinggi di akhir game akan menentukan *ending* mana yang kamu dapatkan.
 
 ### Item Kenangan
 Objek-objek yang kamu temukan dan periksa akan tersimpan sebagai *memory item* sepotong kecil dari masa lalu Mono dan Ibu yang perlahan menyusun potongan kebenaran.
 
 ---
 
-## 🌅 Ending — Empat Akhir Berbeda
+## 🌅 [Ending] Empat Akhir Berbeda
 
 <details>
 <summary><b>⚠️ Klik untuk membuka mengandung SPOILER cerita</b></summary>
