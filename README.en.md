@@ -26,6 +26,138 @@ A source code for my own original game, a visual novel game kinda thing with the
   <img width="1578" height="888" alt="Screenshot 2026-07-25 201436" src="https://github.com/user-attachments/assets/a2cb30c2-1e31-4565-bdfe-a1394ecbe792" />
 </p>
 
+<details>
+<summary><b>🔍 Tutorial setup</b></p></summary>
+
+## ✅ Before You Start
+
+Make sure you have:
+
+- **[Unity Hub](https://unity.com/download)** installed
+- **Unity Editor `6000.4.0f1`** (or a close 6.x version) installed via Unity Hub
+  - Open Unity Hub → **Installs** tab → **Install Editor** → pick the matching version
+- A bit of free disk space (a few GB for the Editor + project files)
+
+---
+
+## 🗂️ [Method 1] Download as ZIP (Easiest, No Git Needed)
+
+**Step 1: Download**
+
+Go to the GitHub repository page [(link in the README)]((https://drive.google.com/file/d/1w-Y3Wjmb8MIVBdesMe1MyjM75DPAJzlK/view?usp=sharing)), click the green **`<> Code`** button, then click **Download ZIP**.
+
+**Step 2: Extract the ZIP**
+
+Right-click the downloaded `.zip` file → **Extract All** (Windows) or double-click it (Mac). Use any archive tool (WinRAR, 7-Zip, or the built-in one) if needed.
+
+> ⚠️ After extracting, you'll usually get a folder like `HariYangTerusBerulang-main`. **Open that folder** — inside it you should see subfolders named `Assets`, `Packages`, and `ProjectSettings`. That's the actual Unity project root you need for the next step.
+
+**Step 3: Open Unity Hub**
+
+1. Launch **Unity Hub**
+2. Go to the **Projects** tab
+3. Click **Add** → **Add project from disk**
+4. Browse and select the extracted folder (the one containing `Assets`, `Packages`, `ProjectSettings`)
+5. Click **Add Project** / **Select Folder**
+
+**Step 4: Open the Project**
+
+Click the project entry that just appeared in your Unity Hub list. Unity will start importing all assets — **this can take a few minutes on the first launch**, especially while it compiles shaders. Just let it finish, don't force close.
+
+**Step 5: Play!**
+
+Once the Editor is open:
+1. In the **Project** window, go to `Assets/Scenes/`
+2. Double-click **`Main Menu`** to open that scene
+3. Press the ▶️ **Play** button at the top of the Editor
+
+🎉 That's it you're in the game!
+
+---
+
+## 🌱 [Method 2] Clone via Git (For Updates & Contributors)
+
+If you want to keep your copy easily updatable, or plan to contribute, cloning with Git is better than downloading a ZIP. Here's the full walkthrough even if you've never used Git before:
+
+**Step 1: Install Git**
+
+Download and install Git from **[git-scm.com](https://git-scm.com/downloads)**. Just click through the installer with default options.
+
+**Step 2: Open a Terminal**
+
+- **Windows:** Right-click on your Desktop or in a folder → **Open in Terminal** (or search "Command Prompt" / "Git Bash" in the Start Menu)
+- **Mac:** Open the **Terminal** app (search via Spotlight)
+
+**Step 3: Clone the Repository**
+
+Navigate to a folder where you want the project to live, then run:
+
+```bash
+git clone https://github.com/AceBreaker-Cell/Memory-Loop.git
+```
+
+This will create a new folder with the full project inside it.
+
+**Step 4: Add to Unity Hub**
+
+Same as Method 1, Step 3–5:
+1. Open **Unity Hub** → **Projects** → **Add** → **Add project from disk**
+2. Select the cloned folder
+3. Open the project, wait for it to import
+4. Open `Main Menu` scene → press **Play**
+
+**Bonus Getting future updates:**
+Whenever the repo gets updated, just open a terminal inside your cloned folder and run:
+```bash
+git pull
+```
+This will fetch the latest changes without needing to re-download anything.
+
+---
+
+## 🛠️ Editing the Project
+
+Feel free to explore, modify, and experiment with the project! A few tips:
+
+- All gameplay scripts live in `Assets/Scripts/`
+- All scenes (Main Menu, Loop 0–3, Final Loop, Endings) live in `Assets/Scenes/`
+- Make sure your Unity Editor version matches (or is close to) `6000.4.0f1` to avoid compatibility warnings
+
+---
+
+## ❗ Troubleshooting
+
+| Problem | Solution |
+|---|---|
+| Unity Hub says "Unity version not found" | Install the matching version via Unity Hub → Installs → Install Editor |
+| Pink/missing textures after opening | Let the project finish importing fully, then restart Unity |
+| Project won't open / stuck loading | Make sure you selected the folder that directly contains `Assets`, not a folder above or below it |
+| Everything is very slow on first open | Normal — Unity is compiling shaders and importing assets the first time. Subsequent opens will be much faster |
+
+---
+
+## 📜 Credits & License
+
+This project was created by **Muhammad Aziz Syah Dani** as a final exam project for the *Introduction to Game Programming* course And **Fajri Aulia** for the story concept of the game, with visual assets by **Nagita Syahira Putri** and **Muhammad Zaki Daisa Ammar**.
+
+You're welcome to download, play, and modify this project for learning purposes **please credit the original creator if you share, showcase, or build upon this work.**
+
+Some asset files in this project exceed GitHub's 25 MB upload limit, so the full source code (with all assets included) is hosted on Google Drive instead of directly in this repo.
+
+➡️ [Download the complete project here:](https://drive.google.com/file/d/1w-Y3Wjmb8MIVBdesMe1MyjM75DPAJzlK/view?usp=sharing) 
+
+Please use this Drive link and follow Method 1 (Download ZIP) in the setup guide the GitHub repo alone may be missing some larger files.
+
+<div align="center">
+
+**Copyright © Albatany 2026**
+
+*Happy playing! 🎮*
+
+</div>
+
+</details>
+
 ---
 
 ## 📖 About the Game
