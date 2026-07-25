@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: 46c2fa53c9f09cd4798dfa3ad958a350
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1681290891659085540
+    second: Serpihan Photo_0
+  - first:
+      213: -5155485432634037478
+    second: Serpihan Photo_1
+  - first:
+      213: -1482780882159635230
+    second: Serpihan Photo_2
+  - first:
+      213: 7116450787710784950
+    second: Serpihan Photo_3
+  - first:
+      213: -595317221224320561
+    second: Serpihan Photo_4
+  - first:
+      213: 2056026108496150369
+    second: Serpihan Photo_5
+  - first:
+      213: -8574009914969027130
+    second: Serpihan Photo_6
+  - first:
+      213: -8287722171998738103
+    second: Serpihan Photo_7
+  - first:
+      213: 7355330683320735708
+    second: Serpihan Photo_8
+  - first:
+      213: 6191319682301686180
+    second: Serpihan Photo_9
+  - first:
+      213: 4502921908110562608
+    second: Serpihan Photo_10
+  - first:
+      213: -6540236126261721571
+    second: Serpihan Photo_11
+  - first:
+      213: -421278134214712325
+    second: Serpihan Photo_12
+  - first:
+      213: -8862657012800447445
+    second: Serpihan Photo_13
+  - first:
+      213: 4958632078722827499
+    second: Serpihan Photo_14
+  - first:
+      213: 4036842351107420881
+    second: Serpihan Photo_15
+  - first:
+      213: -8369276327884625383
+    second: Serpihan Photo_16
+  - first:
+      213: -207876596519260044
+    second: Serpihan Photo_17
+  - first:
+      213: 2915620959010188830
+    second: Serpihan Photo_18
+  - first:
+      213: -7510909664074378146
+    second: Serpihan Photo_19
+  - first:
+      213: 8802962558157248649
+    second: Serpihan Photo_20
+  - first:
+      213: -4259831722988553309
+    second: Serpihan Photo_21
+  - first:
+      213: 1531676377832576112
+    second: Serpihan Photo_22
+  - first:
+      213: -4690985452436327776
+    second: Serpihan Photo_23
+  - first:
+      213: -4754101312985421711
+    second: Serpihan Photo_24
+  - first:
+      213: 3899514681620316647
+    second: Serpihan Photo_25
+  - first:
+      213: 6980612140693224082
+    second: Serpihan Photo_26
+  - first:
+      213: 2727213409764443078
+    second: Serpihan Photo_27
+  - first:
+      213: -296698060862977904
+    second: Serpihan Photo_28
+  - first:
+      213: -145517099778561323
+    second: Serpihan Photo_29
+  - first:
+      213: -7198179621381295686
+    second: Serpihan Photo_30
+  - first:
+      213: -1475288202732896070
+    second: Serpihan Photo_31
+  - first:
+      213: 2494990436218895382
+    second: Serpihan Photo_32
+  - first:
+      213: -2599868586971736046
+    second: Serpihan Photo_33
+  - first:
+      213: -1863532870045579096
+    second: Serpihan Photo_34
+  - first:
+      213: -1765319681987552414
+    second: Serpihan Photo_35
+  - first:
+      213: -1577296201647295525
+    second: Serpihan Photo_36
+  - first:
+      213: -2518453989414291086
+    second: Serpihan Photo_37
+  - first:
+      213: -2811644994586835754
+    second: Serpihan Photo_38
+  - first:
+      213: 6800615621606725007
+    second: Serpihan Photo_39
+  - first:
+      213: -1995119607852653673
+    second: Serpihan Photo_40
+  - first:
+      213: 3813814469797566079
+    second: Serpihan Photo_41
+  - first:
+      213: 7095027369824987086
+    second: Serpihan Photo_42
+  - first:
+      213: -428945209731629612
+    second: Serpihan Photo_43
+  - first:
+      213: -478918020754906905
+    second: Serpihan Photo_44
+  - first:
+      213: 5023427522525355801
+    second: Serpihan Photo_45
+  - first:
+      213: -4305594383506002944
+    second: Serpihan Photo_46
+  - first:
+      213: -6642457048223818866
+    second: Serpihan Photo_47
+  - first:
+      213: -466474399460011225
+    second: Serpihan Photo_48
+  - first:
+      213: -2147398949883334783
+    second: Serpihan Photo_49
+  - first:
+      213: -1059827477818711944
+    second: Serpihan Photo_50
+  - first:
+      213: 4676321859466384518
+    second: Serpihan Photo_51
+  - first:
+      213: -778650599546733452
+    second: Serpihan Photo_52
+  - first:
+      213: 2006033534009359519
+    second: Serpihan Photo_53
+  - first:
+      213: -5989465702917401048
+    second: Serpihan Photo_54
+  - first:
+      213: 4284032977743097931
+    second: Serpihan Photo_55
+  - first:
+      213: 2795582399979907881
+    second: Serpihan Photo_56
+  - first:
+      213: -4091474880849938019
+    second: Serpihan Photo_57
+  - first:
+      213: -8738940200081787483
+    second: Serpihan Photo_58
+  - first:
+      213: -7522716322056016470
+    second: Serpihan Photo_59
+  - first:
+      213: -386772114948870882
+    second: Serpihan Photo_60
+  - first:
+      213: -5219773928450320273
+    second: Serpihan Photo_61
+  - first:
+      213: 1256952701200073859
+    second: Serpihan Photo_62
+  - first:
+      213: -3186752323512024356
+    second: Serpihan Photo_63
+  - first:
+      213: 5200430709792754633
+    second: Serpihan Photo_64
+  - first:
+      213: 3581649965339873424
+    second: Serpihan Photo_65
+  - first:
+      213: -6670779382327605436
+    second: Serpihan Photo_66
+  - first:
+      213: -224591824270522924
+    second: Serpihan Photo_67
+  - first:
+      213: 2731260705004273211
+    second: Serpihan Photo_68
+  - first:
+      213: 6128658841010928476
+    second: Serpihan Photo_69
+  - first:
+      213: 214790934777049806
+    second: Serpihan Photo_70
+  - first:
+      213: -9186274611386490163
+    second: Serpihan Photo_71
+  - first:
+      213: -7383342636824644617
+    second: Serpihan Photo_72
+  - first:
+      213: 2594201845410969045
+    second: Serpihan Photo_73
+  - first:
+      213: 1661145717563383932
+    second: Serpihan Photo_74
+  - first:
+      213: 4608178054217439706
+    second: Serpihan Photo_75
+  - first:
+      213: -4913549803061779340
+    second: Serpihan Photo_76
+  - first:
+      213: 6666011552346362457
+    second: Serpihan Photo_77
+  - first:
+      213: -9010315603671651804
+    second: Serpihan Photo_78
+  - first:
+      213: -4919503919212772508
+    second: Serpihan Photo_79
+  - first:
+      213: 5026341791346239859
+    second: Serpihan Photo_80
+  - first:
+      213: -3037079520354694098
+    second: Serpihan Photo_81
+  - first:
+      213: 3701074363399306757
+    second: Serpihan Photo_82
+  - first:
+      213: 6592384854631517587
+    second: Serpihan Photo_83
+  - first:
+      213: 7980598433042431824
+    second: Serpihan Photo_84
+  - first:
+      213: -5770444315979434253
+    second: Serpihan Photo_85
+  - first:
+      213: -2945997320443135210
+    second: Serpihan Photo_86
+  - first:
+      213: -4688241378875948432
+    second: Serpihan Photo_87
+  - first:
+      213: -151843143569201084
+    second: Serpihan Photo_88
+  - first:
+      213: -7948216184351465620
+    second: Serpihan Photo_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serpihan Photo_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 931
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c197f8687dadaa8e0800000000000000
+      internalID: -1681290891659085540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1008
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ba52f50590478b0800000000000000
+      internalID: -5155485432634037478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 960
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4722fc4aa1c6be0800000000000000
+      internalID: -1482780882159635230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 996
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5dc0f6946b2c260800000000000000
+      internalID: 7116450787710784950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 991
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1704434220db7f0800000000000000
+      internalID: -595317221224320561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_5
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 940
+        width: 123
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f77d53ad8788c10800000000000000
+      internalID: 2056026108496150369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_6
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 936
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd089dc86ff20980800000000000000
+      internalID: -8574009914969027130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_7
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1022
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e2e448981cfc80800000000000000
+      internalID: -8287722171998738103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 908
+        width: 127
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd71dd84942631660800000000000000
+      internalID: 7355330683320735708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 991
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f972b27cfbe550800000000000000
+      internalID: 6191319682301686180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_10
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 944
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03511403e979d7e30800000000000000
+      internalID: 4502921908110562608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 847
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d164ef215e96c35a0800000000000000
+      internalID: -6540236126261721571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 839
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf32e7ad4c1572af0800000000000000
+      internalID: -421278134214712325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 924
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c97e93764810580800000000000000
+      internalID: -8862657012800447445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 863
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be481288a9990d440800000000000000
+      internalID: 4958632078722827499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_15
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 911
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2b200fabeb50830800000000000000
+      internalID: 4036842351107420881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_16
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 846
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae959a58b5adb80800000000000000
+      internalID: -8369276327884625383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 804
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4703a5b36597d1df0800000000000000
+      internalID: -207876596519260044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 756
+        width: 113
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e6c7980dd567820800000000000000
+      internalID: 2915620959010188830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 835
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e545ccc7473e3c790800000000000000
+      internalID: -7510909664074378146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 770
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988d60a7ec76a2a70800000000000000
+      internalID: 8802962558157248649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 775
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abb3541e9902e4c0800000000000000
+      internalID: -4259831722988553309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_22
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 812
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074519bec8b914510800000000000000
+      internalID: 1531676377832576112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 706
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2f10db59546eeb0800000000000000
+      internalID: -4690985452436327776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_24
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 728
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178294d4b0a060eb0800000000000000
+      internalID: -4754101312985421711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_25
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 695
+        width: 110
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1466241fbdd1630800000000000000
+      internalID: 3899514681620316647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_26
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 789
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7cc0d1cd10e060800000000000000
+      internalID: 6980612140693224082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_27
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 788
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c301b3952209d520800000000000000
+      internalID: 2727213409764443078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 668
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09807b48faae1ebf0800000000000000
+      internalID: -296698060862977904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 666
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da24fef7f40bfdf0800000000000000
+      internalID: -145517099778561323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 625
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1bc1e95cdea1c90800000000000000
+      internalID: -7198179621381295686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 699
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab008ce2239b68be0800000000000000
+      internalID: -1475288202732896070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 622
+        width: 131
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf2dc259cff9220800000000000000
+      internalID: 2494990436218895382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_33
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 656
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185ada7b496bebd0800000000000000
+      internalID: -2599868586971736046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_34
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 638
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a84ba56ab66326e0800000000000000
+      internalID: -1863532870045579096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_35
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 644
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b50203a135087e0800000000000000
+      internalID: -1765319681987552414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 505
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37d3326715c1ae0800000000000000
+      internalID: -1577296201647295525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_37
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 564
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279bbc1a077ac0dd0800000000000000
+      internalID: -2518453989414291086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 540
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4852f26c70bf8d0800000000000000
+      internalID: -2811644994586835754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_39
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 592
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8557db60e3a06e50800000000000000
+      internalID: 6800615621606725007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_40
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 580
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a6898949ef44e0800000000000000
+      internalID: -1995119607852653673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_41
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 540
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f765787cd046de430800000000000000
+      internalID: 3813814469797566079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_42
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 610
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a7124dc9967260800000000000000
+      internalID: 7095027369824987086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 560
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd37d9ba941c0af0800000000000000
+      internalID: -428945209731629612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 446
+        width: 90
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ee58f89a8a59f0800000000000000
+      internalID: -478918020754906905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_45
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 524
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f5b0b67bcc6b540800000000000000
+      internalID: 5023427522525355801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_46
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 480
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c253068b47f34c0800000000000000
+      internalID: -4305594383506002944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_47
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 516
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b54d4028041d3a0800000000000000
+      internalID: -6642457048223818866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_48
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 430
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7235f535100c689f0800000000000000
+      internalID: -466474399460011225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_49
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 511
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f28215808e232e0800000000000000
+      internalID: -2147398949883334783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_50
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 430
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870ea6d268cba41f0800000000000000
+      internalID: -1059827477818711944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_51
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 412
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68453e874f1a5e040800000000000000
+      internalID: 4676321859466384518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 405
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c3fd9b76da135f0800000000000000
+      internalID: -778650599546733452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_53
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 397
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c362aeedcd6db10800000000000000
+      internalID: 2006033534009359519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_54
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 480
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826193f3da421eca0800000000000000
+      internalID: -5989465702917401048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_55
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 436
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40bf64ab41f37b30800000000000000
+      internalID: 4284032977743097931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_56
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 461
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be2239167ebc620800000000000000
+      internalID: 2795582399979907881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 338
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99718ff5492837c0800000000000000
+      internalID: -4091474880849938019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 343
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57ebc503c09b680800000000000000
+      internalID: -8738940200081787483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_59
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 304
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad61d5bc51f99790800000000000000
+      internalID: -7522716322056016470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_60
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 355
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d22778fc8e1aaf0800000000000000
+      internalID: -386772114948870882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_61
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 284
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689fd28443af87b0800000000000000
+      internalID: -5219773928450320273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_62
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 338
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3848f7672d7917110800000000000000
+      internalID: 1256952701200073859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_63
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 336
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24ae955a166c3d0800000000000000
+      internalID: -3186752323512024356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_64
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 324
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbca307d24ab2840800000000000000
+      internalID: 5200430709792754633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 240
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0909fd5caa394b130800000000000000
+      internalID: 3581649965339873424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 236
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4470d5dbe71ac63a0800000000000000
+      internalID: -6670779382327605436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 246
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d506eefce612ecf0800000000000000
+      internalID: -224591824270522924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 255
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e33cee32367e520800000000000000
+      internalID: 2731260705004273211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_69
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 250
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7300bebe5d0550800000000000000
+      internalID: 6128658841010928476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_70
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 269
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec23c5897371bf200800000000000000
+      internalID: 214790934777049806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_71
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 187
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc26e1379ebc38080800000000000000
+      internalID: -9186274611386490163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_72
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 269
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3321d8df8198990800000000000000
+      internalID: -7383342636824644617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_73
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 209
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5326f65d4700420800000000000000
+      internalID: 2594201845410969045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_74
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 261
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70e68f9a339d0710800000000000000
+      internalID: 1661145717563383932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_75
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 229
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9916f668983ff30800000000000000
+      internalID: 4608178054217439706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_76
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 159
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474ef4abc709fcbb0800000000000000
+      internalID: -4913549803061779340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_77
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 79
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9525146503e628c50800000000000000
+      internalID: 6666011552346362457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_78
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 158
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aedf872bde4f280800000000000000
+      internalID: -9010315603671651804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_79
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 67
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4634e2800496abbb0800000000000000
+      internalID: -4919503919212772508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_80
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 111
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379a4e08a3721c540800000000000000
+      internalID: 5026341791346239859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_81
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 134
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c05a274402ad5d0800000000000000
+      internalID: -3037079520354694098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_82
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 172
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e78bd368bdc5330800000000000000
+      internalID: 3701074363399306757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_83
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 82
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0afae81bdc7b50800000000000000
+      internalID: 6592384854631517587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_84
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 82
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f7888edf7c0ce60800000000000000
+      internalID: 7980598433042431824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_85
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 69
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6bfddb7734befa0800000000000000
+      internalID: -5770444315979434253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_86
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 69
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bfbbdab07bd17d0800000000000000
+      internalID: -2945997320443135210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_87
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 81
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072cfc62e4500feb0800000000000000
+      internalID: -4688241378875948432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_88
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 78
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448aaf5277b84edf0800000000000000
+      internalID: -151843143569201084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpihan Photo_89
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 62
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f58b5ed7342b190800000000000000
+      internalID: -7948216184351465620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Serpihan Photo_0: -1681290891659085540
+      Serpihan Photo_1: -5155485432634037478
+      Serpihan Photo_10: 4502921908110562608
+      Serpihan Photo_11: -6540236126261721571
+      Serpihan Photo_12: -421278134214712325
+      Serpihan Photo_13: -8862657012800447445
+      Serpihan Photo_14: 4958632078722827499
+      Serpihan Photo_15: 4036842351107420881
+      Serpihan Photo_16: -8369276327884625383
+      Serpihan Photo_17: -207876596519260044
+      Serpihan Photo_18: 2915620959010188830
+      Serpihan Photo_19: -7510909664074378146
+      Serpihan Photo_2: -1482780882159635230
+      Serpihan Photo_20: 8802962558157248649
+      Serpihan Photo_21: -4259831722988553309
+      Serpihan Photo_22: 1531676377832576112
+      Serpihan Photo_23: -4690985452436327776
+      Serpihan Photo_24: -4754101312985421711
+      Serpihan Photo_25: 3899514681620316647
+      Serpihan Photo_26: 6980612140693224082
+      Serpihan Photo_27: 2727213409764443078
+      Serpihan Photo_28: -296698060862977904
+      Serpihan Photo_29: -145517099778561323
+      Serpihan Photo_3: 7116450787710784950
+      Serpihan Photo_30: -7198179621381295686
+      Serpihan Photo_31: -1475288202732896070
+      Serpihan Photo_32: 2494990436218895382
+      Serpihan Photo_33: -2599868586971736046
+      Serpihan Photo_34: -1863532870045579096
+      Serpihan Photo_35: -1765319681987552414
+      Serpihan Photo_36: -1577296201647295525
+      Serpihan Photo_37: -2518453989414291086
+      Serpihan Photo_38: -2811644994586835754
+      Serpihan Photo_39: 6800615621606725007
+      Serpihan Photo_4: -595317221224320561
+      Serpihan Photo_40: -1995119607852653673
+      Serpihan Photo_41: 3813814469797566079
+      Serpihan Photo_42: 7095027369824987086
+      Serpihan Photo_43: -428945209731629612
+      Serpihan Photo_44: -478918020754906905
+      Serpihan Photo_45: 5023427522525355801
+      Serpihan Photo_46: -4305594383506002944
+      Serpihan Photo_47: -6642457048223818866
+      Serpihan Photo_48: -466474399460011225
+      Serpihan Photo_49: -2147398949883334783
+      Serpihan Photo_5: 2056026108496150369
+      Serpihan Photo_50: -1059827477818711944
+      Serpihan Photo_51: 4676321859466384518
+      Serpihan Photo_52: -778650599546733452
+      Serpihan Photo_53: 2006033534009359519
+      Serpihan Photo_54: -5989465702917401048
+      Serpihan Photo_55: 4284032977743097931
+      Serpihan Photo_56: 2795582399979907881
+      Serpihan Photo_57: -4091474880849938019
+      Serpihan Photo_58: -8738940200081787483
+      Serpihan Photo_59: -7522716322056016470
+      Serpihan Photo_6: -8574009914969027130
+      Serpihan Photo_60: -386772114948870882
+      Serpihan Photo_61: -5219773928450320273
+      Serpihan Photo_62: 1256952701200073859
+      Serpihan Photo_63: -3186752323512024356
+      Serpihan Photo_64: 5200430709792754633
+      Serpihan Photo_65: 3581649965339873424
+      Serpihan Photo_66: -6670779382327605436
+      Serpihan Photo_67: -224591824270522924
+      Serpihan Photo_68: 2731260705004273211
+      Serpihan Photo_69: 6128658841010928476
+      Serpihan Photo_7: -8287722171998738103
+      Serpihan Photo_70: 214790934777049806
+      Serpihan Photo_71: -9186274611386490163
+      Serpihan Photo_72: -7383342636824644617
+      Serpihan Photo_73: 2594201845410969045
+      Serpihan Photo_74: 1661145717563383932
+      Serpihan Photo_75: 4608178054217439706
+      Serpihan Photo_76: -4913549803061779340
+      Serpihan Photo_77: 6666011552346362457
+      Serpihan Photo_78: -9010315603671651804
+      Serpihan Photo_79: -4919503919212772508
+      Serpihan Photo_8: 7355330683320735708
+      Serpihan Photo_80: 5026341791346239859
+      Serpihan Photo_81: -3037079520354694098
+      Serpihan Photo_82: 3701074363399306757
+      Serpihan Photo_83: 6592384854631517587
+      Serpihan Photo_84: 7980598433042431824
+      Serpihan Photo_85: -5770444315979434253
+      Serpihan Photo_86: -2945997320443135210
+      Serpihan Photo_87: -4688241378875948432
+      Serpihan Photo_88: -151843143569201084
+      Serpihan Photo_89: -7948216184351465620
+      Serpihan Photo_9: 6191319682301686180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
