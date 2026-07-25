@@ -138,7 +138,7 @@ Silakan jelajahi, ubah, dan bereksperimen dengan project ini! Beberapa tips:
 
 ## 📜 Credits & Lisensi
 
-Project ini dibuat oleh **Muhammad Aziz Syah Dani** sebagai tugas Ujian Akhir Semester mata kuliah *Pengenalan Pemrograman Game* Dan Fajri Aulia sebagai Konsep cerita dari game ini, dengan aset visual oleh **Nagita Syahira Putri** dan **Muhammad Zaki Daisa Ammar**.
+Project ini dibuat oleh **Muhammad Aziz Syah Dani** sebagai tugas Ujian Akhir Semester mata kuliah *Pengenalan Pemrograman Game* Dan **Fajri Aulia** sebagai Konsep cerita dari game ini, dengan aset visual oleh **Nagita Syahira Putri** dan **Muhammad Zaki Daisa Ammar**.
 
 Kamu bebas download, main, dan modifikasi project ini untuk keperluan belajar **mohon cantumkan kredit ke pembuat aslinya jika kamu membagikan, menampilkan, atau mengembangkan karya ini lebih lanjut.**
 
