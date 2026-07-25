@@ -47,7 +47,7 @@ Seiring hari yang terus berulang, Mono mulai menyadari ada yang tidak beres jam 
 ## 🎮 Mekanisme Gameplay
 
 ### Eksplorasi & Interaksi
-Jelajahi rumah masa kecil Mono secara bebas — dari halaman depan, ruang keluarga, dapur, hingga kamar tidur. Gunakan **Arrow Keys / A-D** untuk berjalan, dan **E / Spasi** untuk berinteraksi dengan objek maupun berbicara dengan karakter lain.
+Jelajahi rumah masa kecil Mono secara bebas dari halaman depan, ruang keluarga, dapur, hingga kamar tidur. Gunakan **Arrow Keys / A-D** untuk berjalan, dan **E / Spasi** untuk berinteraksi dengan objek maupun berbicara dengan karakter lain.
 
 ### Dialog Bercabang
 Setiap percakapan dengan Ibu punya pilihan respons yang berbeda. Kata-kata yang kamu pilih tidak hanya mengubah reaksi karakter tapi juga diam-diam **mempengaruhi arah cerita dan akhir yang akan kamu dapatkan**.
