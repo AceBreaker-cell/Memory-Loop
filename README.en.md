@@ -1,11 +1,11 @@
-# Memory-Loop
+# Memory Loop
 A source code for my own original game, a visual novel game kinda thing with the style of 2D pixel art. 
-
-[Download source code here! 👋](https://drive.google.com/file/d/1w-Y3Wjmb8MIVBdesMe1MyjM75DPAJzlK/view?usp=sharing)
 
 <div align="center">
 
 # 🏠 The Recurring Day
+
+[Download source code here! 👋](https://drive.google.com/file/d/1w-Y3Wjmb8MIVBdesMe1MyjM75DPAJzlK/view?usp=sharing)
 
 ### *Every identical day is how you refuse to forget.*
 
