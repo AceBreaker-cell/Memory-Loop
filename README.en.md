@@ -7,6 +7,8 @@ A source code for my own original game, a visual novel game kinda thing with the
 
 [Download source code here! 👋](https://drive.google.com/file/d/1w-Y3Wjmb8MIVBdesMe1MyjM75DPAJzlK/view?usp=sharing)
 
+[Or Play it online! 🎮](https://acebreaker-cell.itch.io/memory-loop)
+
 ### *Every identical day is how you refuse to forget.*
 
 [![Bahasa](https://img.shields.io/badge/🇮🇩_Switch_to-Indonesian-red?style=for-the-badge)](README.md)
