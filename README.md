@@ -292,6 +292,6 @@ Proyek ini dikerjakan sebagai tugas Ujian Akhir Semester mata kuliah **Pengenala
 
 <div align="center">
 
-**"Aku pulang, Bu."**
+**"Aku pulang, Bu. -Albatany"**
 
 </div>
